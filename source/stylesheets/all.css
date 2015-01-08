@@ -73,5 +73,7 @@ h1 {
 
 .lead a:hover {
   color: #84b4db;
+
+.list-inline li a {
   text-decoration: none;
 }
