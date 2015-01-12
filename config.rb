@@ -36,6 +36,8 @@ set :relative_links, false
 # Helpers
 ###
 
+activate :protect_emails
+
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
 
