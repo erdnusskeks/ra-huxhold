@@ -36,6 +36,10 @@ set :relative_links, false
 # Helpers
 ###
 
+def obfuscated_mail_to(email, title)
+  %Q{<a href="mailto:#{email}">#{title}</a>}.html_safe
+end
+
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
 
