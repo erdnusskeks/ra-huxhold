@@ -1,3 +1,7 @@
+# directory_indexes
+activate :directory_indexes
+set :relative_links, false
+
 ###
 # Compass
 ###
