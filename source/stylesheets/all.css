@@ -79,3 +79,7 @@ h1 {
 .list-inline li a {
   text-decoration: none;
 }
+
+span.displaynone {
+  display: none;
+}
