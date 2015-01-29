@@ -57,6 +57,9 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+# Turn this on if you want to make your url's prettier, without the .html
+activate :directory_indexes
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
