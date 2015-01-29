@@ -50,12 +50,12 @@ h1 {
 
 /* Configurations */
 .logo {
-  width: 200px;
+  width: 130px;
   background-color: #fff;
-  padding: 10px;
+  padding: 5px;
   margin-top: 10px;
   margin-left: 100px;
-  border: 10px solid #e7e7e7;
+  border: 5px solid #e7e7e7;
 }
 
 .left {
