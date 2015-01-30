@@ -8,6 +8,8 @@
  * Corrects `block` display not defined in IE 8/9.
  */
 
+@charset "utf-8";
+
 article,
 aside,
 details,
