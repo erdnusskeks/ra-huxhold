@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 # directory_indexes
 activate :directory_indexes
 set :relative_links, false
