@@ -54,8 +54,8 @@ set :relative_links, false
 # end
 
 set :css_dir, 'stylesheets'
-set :js_dir, 'javascripts'
-set :images_dir, 'images'
+set :js_dir, 'js'
+set :images_dir, 'img'
 
 # Build-specific configuration
 configure :build do
